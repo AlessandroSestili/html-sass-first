@@ -1,0 +1,13 @@
+$brand: #ff00ff;
+
+a {
+    color: $brand;
+}
+
+button:hover {
+    color: $brand;
+}
+
+body {
+    background-color: $brand;
+}
